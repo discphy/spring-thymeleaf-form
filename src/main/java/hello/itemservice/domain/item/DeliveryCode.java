@@ -10,7 +10,7 @@ import lombok.Data;
  */
 @Data
 @AllArgsConstructor
-public class Delivery {
+public class DeliveryCode {
 
     private String code;
     private String displayName;
